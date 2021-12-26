@@ -10,7 +10,7 @@ CSS
 Repository:
 https://github.com/CMahoney12/Portfolio
 
-Deployed Project:
+Deployed Project: https://cmahoney12.github.io/Portfolio/
 
 
 Author:
